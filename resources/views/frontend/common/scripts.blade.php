@@ -1,0 +1,1 @@
+<script src="{!! asset('resources/views/frontend/assets/js/app.js') !!}"></script>

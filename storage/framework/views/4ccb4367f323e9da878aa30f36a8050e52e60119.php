@@ -1,0 +1,1 @@
+<script src="<?php echo asset('resources/views/frontend/assets/js/app.js'); ?>"></script>
